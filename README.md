@@ -7,6 +7,8 @@ Empty but live — skeleton deployed, full build starting next week.
 
 ## Live URL
 
+https://my-portfolio-seven-ivory-59.vercel.app
+
 ## Stack
 - Node.js
 - Express
